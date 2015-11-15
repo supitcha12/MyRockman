@@ -1,0 +1,23 @@
+F:\Games\[2015] OOP- MyRockman\MyRockman\MyRockman\bin\Debug\MyRockman.exe.config
+F:\Games\[2015] OOP- MyRockman\MyRockman\MyRockman\bin\Debug\MyRockman.exe
+F:\Games\[2015] OOP- MyRockman\MyRockman\MyRockman\bin\Debug\MyRockman.pdb
+F:\Games\[2015] OOP- MyRockman\MyRockman\MyRockman\obj\Debug\MyRockman.csprojResolveAssemblyReference.cache
+F:\Games\[2015] OOP- MyRockman\MyRockman\MyRockman\obj\Debug\MyRockman.MyRockman.resources
+F:\Games\[2015] OOP- MyRockman\MyRockman\MyRockman\obj\Debug\MyRockman.Properties.Resources.resources
+F:\Games\[2015] OOP- MyRockman\MyRockman\MyRockman\obj\Debug\MyRockman.csproj.GenerateResource.Cache
+F:\Games\[2015] OOP- MyRockman\MyRockman\MyRockman\obj\Debug\MyRockman.exe
+F:\Games\[2015] OOP- MyRockman\MyRockman\MyRockman\obj\Debug\MyRockman.pdb
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\bin\Debug\MyRockman.exe.config
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\obj\Debug\MyRockman.exe
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\obj\Debug\MyRockman.pdb
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\bin\Debug\MyRockman.exe
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\bin\Debug\MyRockman.pdb
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\obj\Debug\MyRockman.csprojResolveAssemblyReference.cache
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\obj\Debug\MyRockman.MyRockman.resources
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\obj\Debug\MyRockman.Properties.Resources.resources
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\obj\Debug\MyRockman.csproj.GenerateResource.Cache
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\bin\Debug\Interop.WMPLib.dll
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\obj\Debug\Interop.WMPLib.dll
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\KYU.DESKTOP-5385ILF\OneDrive\CPE\261200\MyRockman\MyRockman\obj\Debug\MyRockman.csproj.ResolveComReference.cache
